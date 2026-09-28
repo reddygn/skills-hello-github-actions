@@ -1,4 +1,7 @@
-on: workflow_dispatch
+name: Manual Workflow
+
+on:
+  workflow_dispatch:
 
 jobs:
   if-Windows-else:
