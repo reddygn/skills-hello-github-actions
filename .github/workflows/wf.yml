@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - ci-pipleline
+      - ci-pipeline
       - developer
 
 jobs:
